@@ -1,16 +1,23 @@
 # genie_flutter
 
-A new Flutter application.
+Genie is that one friend that will give you sound advice when you need it most.
 
-## Getting Started
+#FlutterBrew
 
-This project is a starting point for a Flutter application.
+## Components used in the app
 
-A few resources to get you started if this is your first Flutter project:
+- Stateless and stateful widgets.
+- Dart data types.
+- Dart Functions.
+- Row widget.
+- Flatbutton widget.
+- Expanded widget.
+- Dart Math Library for randomizing the dice.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## The Final App
+![genie](https://user-images.githubusercontent.com/77331723/108665101-f9c8e900-7488-11eb-845c-7a001abd9313.gif)
 
-For help getting started with Flutter, view our
+
+For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
